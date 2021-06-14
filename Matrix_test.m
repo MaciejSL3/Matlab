@@ -1,4 +1,7 @@
+%Tworzenie zadanej macierzy
+
 clear all
+close all
 clc
 
 P = 'Podaj wielkość swojej macierzy: '
